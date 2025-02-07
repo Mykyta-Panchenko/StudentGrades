@@ -2,32 +2,35 @@
 
 class StudentGrades
 {
+    const int GRADE_A = 90;
+    const int GRADE_B = 80;
+    const int GRADE_C = 70;
+    
     public void CalculateAverageGrade()
     {
-        Console.Write("Enter student name: ");
-        string name = Console.ReadLine();
-
         Console.Write("Enter first grade: ");
         double g1 = Convert.ToDouble(Console.ReadLine());
-
+    
         Console.Write("Enter second grade: ");
         double g2 = Convert.ToDouble(Console.ReadLine());
-
+    
         Console.Write("Enter third grade: ");
         double g3 = Convert.ToDouble(Console.ReadLine());
-
+    
         double avg = (g1 + g2 + g3) / 3;
-
-        if (avg >= 90)
-            Console.WriteLine("Grade: A");
-        else if (avg >= 80)
-            Console.WriteLine("Grade: B");
-        else if (avg >= 70)
-            Console.WriteLine("Grade: C");
-        else
-            Console.WriteLine("Grade: F");
+        Console.WriteLine($"Grade: {GetGrade(avg)}");
     }
-
+    
+    private string GetGrade(double avg)
+    {
+        if (avg >= GRADE_A)
+            return "A";
+        if (avg >= GRADE_B)
+            return "B";
+        if (avg >= GRADE_C)
+            return "C";
+        return "F";
+    }
     static void Main()
     {
         StudentGrades grades = new StudentGrades();
