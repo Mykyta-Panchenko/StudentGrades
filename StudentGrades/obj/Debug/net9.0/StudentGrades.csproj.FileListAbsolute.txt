@@ -1,0 +1,15 @@
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.deps.json
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.runtimeconfig.json
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.dll
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.pdb
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.AssemblyInfoInputs.cache
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.AssemblyInfo.cs
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.csproj.CoreCompileInputs.cache
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.sourcelink.json
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.dll
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/refint/StudentGrades.dll
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.pdb
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.genruntimeconfig.cache
+/home/koputo/Documents/praktGIT/Refactor/StudentGrades/StudentGrades/obj/Debug/net9.0/ref/StudentGrades.dll
